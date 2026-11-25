@@ -4,9 +4,10 @@ import butterflyImage from "../assets/butterfly6.jpg"
 
 const About = () => {
   return (
-    <section className="mt-5 mb-5 bg-danger p-6">
+    <section className="mt-5 mb-5 bg-muted-danger p-6">
       <div className="container" id="about">
         <div className="row">
+          <h1>About Us</h1>
           <div className="md:col-4">
             <div className="card">
               <div className="card-body">

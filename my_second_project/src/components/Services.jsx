@@ -1,12 +1,12 @@
 const Services = () =>{
     return(
         <>
-        <section className="bg-warning">
+        <section className="bg-muted-warning" id="services">
             <div className="container">
                 <div className="row">
-                    <h1>Our Services</h1>
+                    <h1 className="p-5">Our Services</h1>
                     <div className="md:col-12">
-                        <table class="table">
+                        <table class="table theme-success table-striped">
                     <thead>
                         <tr>
                         <th scope="col">#</th>
